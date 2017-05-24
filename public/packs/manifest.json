@@ -1,0 +1,20 @@
+{
+  "application.js": "http://localhost:5000/packs/application.js",
+  "application.js.map": "http://localhost:5000/packs/application.js.map",
+  "comments/component/commentBox.js": "http://localhost:5000/packs/comments/component/commentBox.js",
+  "comments/component/commentBox.js.map": "http://localhost:5000/packs/comments/component/commentBox.js.map",
+  "comments/component/commentForm.js": "http://localhost:5000/packs/comments/component/commentForm.js",
+  "comments/component/commentForm.js.map": "http://localhost:5000/packs/comments/component/commentForm.js.map",
+  "comments/component/commentList.js": "http://localhost:5000/packs/comments/component/commentList.js",
+  "comments/component/commentList.js.map": "http://localhost:5000/packs/comments/component/commentList.js.map",
+  "comments/index.css": "http://localhost:5000/packs/comments/index.css",
+  "comments/index.css.map": "http://localhost:5000/packs/comments/index.css.map",
+  "comments/index.js": "http://localhost:5000/packs/comments/index.js",
+  "comments/index.js.map": "http://localhost:5000/packs/comments/index.js.map",
+  "comments/style.css": "http://localhost:5000/packs/comments/style.css",
+  "comments/style.css.map": "http://localhost:5000/packs/comments/style.css.map",
+  "comments/style.js": "http://localhost:5000/packs/comments/style.js",
+  "comments/style.js.map": "http://localhost:5000/packs/comments/style.js.map",
+  "hello_react.js": "http://localhost:5000/packs/hello_react.js",
+  "hello_react.js.map": "http://localhost:5000/packs/hello_react.js.map"
+}
